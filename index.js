@@ -174,5 +174,5 @@ function updateData(callback) {
 // Website is down, and module is obsolete
 // Prevent from attempting to update the data cache
 //updateData();
-var interval = setInterval(updateData, updateInterval);
-interval.unref();
+//var interval = setInterval(updateData, updateInterval);
+//interval.unref();
